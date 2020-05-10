@@ -1,2 +1,2 @@
-# roboto
-Roboto is a Kitchen Utility (This project isn't open source)
+# Roboto the Kitchen Utility
+Welcome! Thank you for taking interest in this project, but at last this project isn't open source. Github will host the Wiki for now.
